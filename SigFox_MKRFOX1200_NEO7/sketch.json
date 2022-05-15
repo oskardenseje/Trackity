@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkrfox1200",
+    "name": "Arduino MKR FOX 1200",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
